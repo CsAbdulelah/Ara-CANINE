@@ -30,6 +30,32 @@ GitHub Repository: [Ara-CANINE GitHub](https://github.com/CsAbdulelah/Ara-CANINE
 ## Citation
 
 If you use Ara-CANINE in your research, please cite our paper.
+# How to cite this work
+
+There is no paper associated with SHIBA, but the repository can be cited like this:
+
+```bibtex
+@misc{shiba,
+  author = {Joshua Tanner and Masato Hagiwara},
+  title = {SHIBA: Japanese CANINE model},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/octanove/shiba}},
+}
+```
+
+Please also cite the original CANINE paper:
+```bibtex
+@misc{clark2021canine,
+      title={CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation}, 
+      author={Jonathan H. Clark and Dan Garrette and Iulia Turc and John Wieting},
+      year={2021},
+      eprint={2103.06874},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 ## Contact
 
@@ -39,7 +65,7 @@ For questions or support regarding Ara-CANINE, please contact us at:
 
 ## Acknowledgments
 
-This work was supported by the High-Performance Computing (HPC) Center at King Abdulaziz University, particularly the Aziz Supercomputer.
+This work was inspired by Shiba, and CANINE,  I would thank Joshua Tanner and Masato Hagiwara for their efforts in publically implementing a CANINE model which is the base for this work [Shiba GitHub](https://github.com/octanove/shiba.git) This work was supported by the High-Performance Computing (HPC) Center at King Abdulaziz University, particularly the Aziz Supercomputer.
 
 
 
