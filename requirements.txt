@@ -1,0 +1,4 @@
+transformers==4.6.1
+conllu==4.4 # universal dependencies
+torchmetrics==0.3.2
+conllu==4.4
